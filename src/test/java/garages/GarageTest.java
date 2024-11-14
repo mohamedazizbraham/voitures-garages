@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
 
 public class GarageTest {
 
-	private Garage g1, g2;
+	private Garage g1,g2;
 	private Voiture v1;
 
 	@BeforeEach
